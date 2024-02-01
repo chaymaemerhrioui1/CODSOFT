@@ -1,6 +1,6 @@
 # Tasks of CODSOFT
 
-## Task 1 : Titanic Survival Prediction
+## Task 1 : Titanic Survival Prediction 🧊💑🚢
 
 ![image](https://github.com/chaymaemerhrioui1/CODSOFT/assets/128318349/45eadcd3-19cf-4590-9c9c-c55066508c04)
 

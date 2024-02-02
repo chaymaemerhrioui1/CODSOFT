@@ -11,7 +11,10 @@ In our Titanic Survival Prediction analysis, we discovered that only 36.4% of pa
 
 ## Task 2 : Movie rating prediction with python 🎥🍿🎞️
 
-(en cours ) 
+![image](https://github.com/chaymaemerhrioui1/CODSOFT/assets/128318349/0982a91b-c5b0-44c7-bae4-d79e5b16fc51)
+
+
+In our movie analysis project, we fixed problems like missing data and errors in the dataset. We learned some cool things, like shorter movies getting better ratings and Drama being a popular genre. We also discovered that the Random Forest model worked the best for predicting ratings, with a high accuracy score of 0.88 on the training data and 0.84 on the test data
 
 ## Task 3 : Iris flower classification 🥀🌻⚜️
 

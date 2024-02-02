@@ -21,7 +21,12 @@ In our movie analysis project, we fixed problems like missing data and errors in
 
 ## Task 3 : Iris flower classification 🥀🌻⚜️
 
-(en cours )
+![image](https://github.com/chaymaemerhrioui1/CODSOFT/assets/128318349/d83cb67e-73df-42ac-9397-662f09b8adff)
+
+In our analysis of Iris flower classification, we distinguished between three distinct species: Setosa, Versicolor, and Virginica. These species were differentiated based on attributes such as petal length and width, as well as sepal length and width. We trained multiple classification models, all of which exhibited strong performance, which can be attributed to the relatively small size of the dataset.
+
+![image](https://github.com/chaymaemerhrioui1/CODSOFT/assets/128318349/cdd4bf76-5a8c-4cc1-88d4-4be883249b31)
+
 
 ## Task 4 : Car sales prediction 🚘⛽🛣️
 

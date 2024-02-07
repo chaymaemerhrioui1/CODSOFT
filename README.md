@@ -34,7 +34,10 @@ In our analysis of Iris flower classification, we distinguished between three di
 
 ## Task 5 : Credit card fraud detection 💳🏦💲
 
-(en cours )
+![image](https://github.com/chaymaemerhrioui1/CODSOFT/assets/128318349/17829aee-8b0e-43b7-89c3-1e72448f6f0b)
+
+
+In this task, we built a smart system to detect fraudulent credit card transactions. By using various classification algorithms, we found that the Random Forest algorithm provided the best accuracy. With some smart features, we created a powerful model that effectively detected fraudulent transactions while minimizing errors. We also handled the data imbalance and preprocessed the data effectively. However, we can further improve the model by fine-tuning some settings, trying out different approaches, and incorporating more data about fraudulent transactions.
 
 
 
